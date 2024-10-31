@@ -16,6 +16,8 @@ export default function Home() {
         <ol>
           <li>
             Get started by editing <code>src/app/page.js</code>.
+        
+          
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
@@ -89,6 +91,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <p>uiuiyiudttoiittdiuo</p>
       </footer>
     </div>
   );
